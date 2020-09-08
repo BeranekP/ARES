@@ -2,4 +2,4 @@
 
 input: id of economical subject
 
-output: name and adress
+output: name and address
